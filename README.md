@@ -7,5 +7,5 @@
 
 T**echnologies Used** - Java, Java Swing, JUnit 5, IntelliJ IDE.
 
-**Steps to Install** -Download project, open project in IDE, run main() from the DiceController class in the controller package.
-                     -Copy src files to preferred IDE, then run main().
+**Steps to Install** - Download project, open project in IDE, run main() from the DiceController class in the controller package.
+                     - Copy src files to preferred IDE, then run main().
